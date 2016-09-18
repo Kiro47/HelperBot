@@ -1,0 +1,10 @@
+name: HelperBot
+version: 0.2
+main: com.kiro.helpbot.HelpBotMain
+author: Kiro
+Description: Automated question sentry.
+
+commands:
+  helperbot:
+    usage: /<command>
+    description: Toggles HelperBot
